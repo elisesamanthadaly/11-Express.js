@@ -12,7 +12,7 @@ On the application's [homepage](https://secure-bastion-53851.herokuapp.com), cli
 
 Click into the "Note Title" and "Note Text" fields to write notes. Once note text has been entered, a save icon will appear in the upper right corner, which can be clicked to save the current note.
 
-Saved notes are listed in the left column. Click on the title text of that note to display it in the right column. Click the trashcan icon on a saved note to delete it.
+Saved notes are listed in the left column. Click on the title text of a saved note to display it in the right column. Click the trashcan icon on a saved note to delete it.
 
 When done viewing a note, click the pencil icon in the upper right corner to enter a new note.
 
