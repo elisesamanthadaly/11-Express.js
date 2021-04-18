@@ -3,12 +3,12 @@
 
 This application is a simple note taker/saver. Users can enter notes, save them for future viewing, and then delete them if desired.
 
-The application is deployed through Heroku and can be found [here](https://secure-bastion-53851.herokuapp.com/). The applications's GitHub repository can be found [here](https://github.com/elisesamanthadaly/11-Express.js-Homework/).
+The application is deployed through Heroku and can be found [here](https://secure-bastion-53851.herokuapp.com). The applications's GitHub repository can be found [here](https://github.com/elisesamanthadaly/11-Express.js-Homework).
 
 
 ## Usage
 
-On the application's [home page](https://secure-bastion-53851.herokuapp.com/), click the "Get Started" button to go to the note-taking portion of the application. To return to the homepage, click the "Note Taker" link in the upper left corner.
+On the application's [home page](https://secure-bastion-53851.herokuapp.com), click the "Get Started" button to go to the note-taking portion of the application. To return to the homepage, click the "Note Taker" link in the upper left corner.
 
 Click into the "Note Title" and "Note Text" fields to write notes. Once note text has been entered, a save icon will appear in the upper right corner, which can be clicked to save the current note.
 
@@ -16,12 +16,14 @@ Saved notes are listed in the left column. Click on the title text of that note 
 
 When done viewing a note, click the pencil icon in the upper right corner to enter a new note.
 
-
+![alt text](./assets/images/screencast.gif)
 
 
 ## Credits
 
-This application relies on [Inquirer.js](https://www.npmjs.com/package/inquirer)
+Starter code for the application's front-end provided by UNC Coding Bootcamp.
+
+This application relies on [Express.js](https://www.npmjs.com/package/express)
 
 
 ## License
