@@ -23,5 +23,9 @@ module.exports = (app) => {
     toDeleteIndex = parsedNotesData.indexOf(toDelete);
     parsedNotesData.splice(toDeleteIndex, 1);
     res.json('Deleting data...');
+
+    if (parsedNotesData.length === 0) {
+      newNoteId = 1;
+    }
   });
 };
