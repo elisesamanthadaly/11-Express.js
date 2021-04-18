@@ -23,7 +23,7 @@ When done viewing a note, click the pencil icon in the upper right corner to ent
 
 Starter code for the application's front-end provided by UNC Coding Bootcamp.
 
-This application relies on [Express.js](https://www.npmjs.com/package/express)
+This application relies on [Express.js](https://www.npmjs.com/package/express).
 
 
 ## License
