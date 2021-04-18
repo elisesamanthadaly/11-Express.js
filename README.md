@@ -8,7 +8,7 @@ The application is deployed through Heroku and can be found [here](https://secur
 
 ## Usage
 
-On the application's [home page](https://secure-bastion-53851.herokuapp.com), click the "Get Started" button to go to the note-taking portion of the application. To return to the homepage, click the "Note Taker" link in the upper left corner.
+On the application's [homepage](https://secure-bastion-53851.herokuapp.com), click the "Get Started" button to go to the note-taking portion of the application. To return to the homepage, click the "Note Taker" link in the upper left corner.
 
 Click into the "Note Title" and "Note Text" fields to write notes. Once note text has been entered, a save icon will appear in the upper right corner, which can be clicked to save the current note.
 
