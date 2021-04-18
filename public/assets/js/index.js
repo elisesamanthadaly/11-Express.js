@@ -59,6 +59,8 @@ const renderActiveNote = () => {
     noteTitle.value = activeNote.title;
     noteText.value = activeNote.text;
   } else {
+    noteTitle.removeAttribute('readonly'); //Lines 62-63 added because readonly value needs to be toggleable
+    noteText.removeAttribute('readonly');
     noteTitle.value = '';
     noteText.value = '';
   }
