@@ -3,7 +3,7 @@ const fs = require('fs');
 var notesData = fs.readFileSync('./db/db.json');
 var parsedNotesData = JSON.parse(notesData);
 
-var newNoteId = 1; //Index.js will not display note in first position upon click if note id = 0
+var newNoteId = 1; //index.js will not display note in first position upon click if note.id = 0
 
 module.exports = (app) => {
   app.get('/api/notes', (req, res) => res.json(parsedNotesData));
