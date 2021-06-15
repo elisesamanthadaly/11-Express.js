@@ -1,4 +1,4 @@
-# 11 Express.js 
+# 11 Express.js
 # Note Taker
 
 This application is a simple note taker/saver. Users can enter notes, save them for future viewing, and then delete them if desired.
