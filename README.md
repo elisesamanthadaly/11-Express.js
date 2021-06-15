@@ -3,7 +3,7 @@
 
 This application is a simple note taker/saver. Users can enter notes, save them for future viewing, and then delete them if desired.
 
-The application is deployed through Heroku and can be found [here](https://secure-bastion-53851.herokuapp.com). The application's GitHub repository can be found [here](https://github.com/elisesamanthadaly/11-Express.js-Homework).
+The application is deployed through Heroku and can be found [here](https://esd-11-note-taker.herokuapp.com/). The application's GitHub repository can be found [here](https://github.com/elisesamanthadaly/11-Express.js-Homework).
 
 
 ## Usage
